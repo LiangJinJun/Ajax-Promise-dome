@@ -1,0 +1,1 @@
+console.log('我的2.js');
